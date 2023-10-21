@@ -2,7 +2,7 @@ html,
 body{
    margin: 0;
    font-family: 'Poppins', sans-serif;
-   background-color:#f5e8ba;
+   background-color:aliceblue
 }
 
 #wrapper h2{
@@ -39,7 +39,7 @@ input:active{
 
 button{
     margin-top:20px;
-    background-color:#ffeba7;
+    background-color:rgb(15, 227, 15);
     border-radius: 4px;
     height: 44px;
     font-weight: 600;
